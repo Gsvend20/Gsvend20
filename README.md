@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Gsvend20
 - 👀 I’m interested in https://github.com/Miki0110
-- 🌱 I’m currently learning Robotics
+- 🌱 I’m currently learning Github
